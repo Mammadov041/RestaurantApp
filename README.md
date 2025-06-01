@@ -75,7 +75,7 @@ dotnet ef database update
 dotnet run
 
 4.**API will be available at**
-https://localhost:5001
+https://localhost:7091
 
 ![frontendSide](https://github.com/user-attachments/assets/5d9ec84d-d3bd-4456-ac5a-c12862279d9a)
 ![backendSide](https://github.com/user-attachments/assets/0262a0b3-9c1b-426a-b5dd-c58a0b30292e)
